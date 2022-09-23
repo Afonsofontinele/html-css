@@ -1,0 +1,16 @@
+#cinza {
+    font-family:Arial, Helvetica, sans-serif ;
+    background-color: rgb(199, 197, 197);
+}
+
+.verde {
+    color:rgb(7, 92, 7) ;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgba(79, 128, 79, 0.678);
+}
+
+#amarelo {
+     font-family: Arial, Helvetica, sans-serif;
+     color: rgb(168, 168, 83);
+     background-color: rgba(228, 228, 108, 0.342);
+}
